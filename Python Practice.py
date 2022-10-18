@@ -2,7 +2,7 @@ x = [1, 2, 3, 4]
 
 
 # output = [24,12,8,6]
-
+# Product_of_Array_Except_Self
 def solution(x):
     final = []
     input0 = x.copy()
